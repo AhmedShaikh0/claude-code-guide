@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/your-username/claude-code-guide?style=social)](https://github.com/your-username/claude-code-guide)
+[![Stars](https://img.shields.io/github/stars/AhmedShaikh0/claude-code-guide?style=social)](https://github.com/your-username/claude-code-guide)
 
 ---
 
