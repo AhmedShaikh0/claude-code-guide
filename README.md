@@ -43,7 +43,7 @@ npm install -g @anthropic-ai/claude-code
 export ANTHROPIC_API_KEY="your-key-here"
 
 # 3. Clone this repo and verify your setup
-git clone https://github.com/your-username/claude-code-guide.git
+git clone https://github.com/AhmedShaikh0/claude-code-guide.git
 cd claude-code-guide/00-setup
 bash verify.sh
 ```
